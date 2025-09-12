@@ -18,5 +18,3 @@ Este proyecto tiene como objetivo crear una aplicación web interactiva que perm
 3. Ejecuta la aplicación con Streamlit:
     . streamlit run app.py
 4. Se abrirá en tu navegador. Podrás interactuar con los botones y casillas de verificación para visualizar diferentes gráficos exploratorios.
-
-streamlit run /Users/julianaprieto/Documents/GitHub/ProyectoSprint7/app.py
