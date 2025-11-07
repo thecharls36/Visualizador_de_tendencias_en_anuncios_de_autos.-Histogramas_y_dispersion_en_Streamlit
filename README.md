@@ -1,5 +1,5 @@
-# ProyectoSprint7
-ProyectoSprint7
+# Proyecto_venta_de_coches
+Proyecto_venta_de_coches
 
 **Descripción del proyecto:**
 Este proyecto tiene como objetivo crear una aplicación web interactiva que permita realizar un análisis exploratorio de datos relacionados con anuncios de venta de coches, utilizando Streamlit, pandas y plotly-express. La aplicación está diseñada para facilitar la visualización rápida de información clave, ayudando a los usuarios a comprender mejor el conjunto de datos y detectar patrones o tendencias importantes.
